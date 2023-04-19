@@ -6,3 +6,5 @@ Bucles.ipynb , manejo de bucles (for & while)
 
 # Dia_2  
 
+# Dia_3
+

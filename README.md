@@ -1,8 +1,8 @@
 # Curso Machine Learning con python y SQL  
-# Dia_1  
+# Dia 1
 
-# Dia_2  
+# Dia 2  
 
-# Dia_3
+# Dia 3
 
-# Dia_4
+# Dia 4

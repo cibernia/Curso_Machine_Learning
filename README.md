@@ -1,8 +1,38 @@
-# Curso Machine Learning con python y SQL  
-# Dia 1
+# Curso Machine Learning A Coruña- [Contacto](mailto:cursomachinelearningacoruna@lubay.es)
 
-# Dia 2  
+Las soluciones de todos los días.
+```bash
+Abrir en google colab
+```
 
-# Dia 3
+## Día 1 - Lunes
 
-# Dia 4
+M5 - 01 - Python Notebook
+
+M5 - 02 - Condicionales
+
+M5 - 03 - Bucles
+
+M5 - 04 - Funciones
+
+M5 - 05 - Clases
+
+## Día 2 - Martes
+
+SpaceX - 1 - Data Collection Api
+
+SpaceX - 4 - EDA with Data Visualization
+
+## Día 3 - Miercoles
+
+M5 - 06 - Introducción a Machine Learning con Scikit-Learn
+
+M5 - 07 - Regresión
+
+M5 - 09 - Folium
+
+## Día 4 - Jueves
+
+SpaceX2 - 5 - Interactive Visual Analytics con Folium
+
+SpaceX2 - 6 - Machine Learning Predicciones

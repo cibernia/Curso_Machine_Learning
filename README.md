@@ -1,4 +1,4 @@
-# Curso Machine Learning A Coruña- [Contacto](mailto:cursomachinelearningacoruna@lubay.es)
+# Curso Machine Learning 
 
 Las soluciones de todos los días.
 ```bash
